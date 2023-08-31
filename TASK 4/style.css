@@ -1,6 +1,6 @@
 body{
     height:100%;
-    width:100%;background-color: aquamarine;
+    width:100%;background-color: rgb(243, 150, 38);
 
 }
 h1{
@@ -18,7 +18,7 @@ h1{
     border:2px solid black;
     border-radius: 9px;
     cursor:pointer;
-    background-color: rgb(240, 235, 237);
+    background-color: rgb(245, 152, 175);
     font-size: large;
 }
 .button:hover{

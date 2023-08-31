@@ -17,7 +17,7 @@
     text-align: center;
     padding: 10px 0px;
     margin-bottom: 20px;
-    background-color: rgb(12, 208, 234);
+    background-color: rgb(193, 234, 12);
     color: #0b0101;
 }
 
@@ -77,12 +77,12 @@ input[type=radio] {
 }
 
 .buttons button#enroll{
-    background-color: rgb(14, 234, 54);
+    background-color: rgb(14, 234, 212);
     color: #0a120b;
 }
 
 .buttons button#reset{
-    background-color: rgb(247, 16, 16);
+    background-color: rgb(247, 108, 16);
     color: #070a07;
 }
 span#rule{
@@ -114,7 +114,7 @@ span#rule{
 }
 
 .table .head-row{
-    background-color: rgb(19, 193, 232);
+    background-color: rgb(232, 19, 19);
     color: #080908;
 }
 
